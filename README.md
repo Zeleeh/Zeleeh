@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Zele and I am a student in computer systems engineering from Costa Rica</p>
+<p align="left">I'm Zele and I am a student in computer systems engineering from Costa Rica.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently doing:<br> - Web development, I'm getting stronger knowledge with The Odin Project.<br>- Creating content relate to programming.<br><br>🎯 Goals:<br>- Make my portfolio web.<br><br>🎲 Fun fact:<br>Atoms never touch.</p>
+<p align="left">📚 I'm currently doing:<br>- Web development, strengthening my knowledge with <a href="https://www.theodinproject.com">The Odin Project</a>.<br>- Creating content related to programming.<br>- Learning something new every single day.<br><br>🎯 Goals:<br>- Make my portfolio web.<br><br>🎲 Fun fact:<br>Atoms never touch.</p>
 
 ###
 <h2 align="left">Experience in:</h2>
