@@ -16,9 +16,20 @@
 
 ###
 
-<p align="left">📚 I'm currently doing:<br>- Web development, strengthening my knowledge with <a href="https://www.theodinproject.com">The Odin Project</a>.<br>- Creating content related to programming.<br>- Learning something new every single day.<br><br>🎯 Goals:<br>- Make my portfolio web.<br><br>🎲 Fun fact:<br>Atoms never touch.</p>
+<p align="left">📚 I'm currently doing:<br>- Web development, strengthening my knowledge with <a href="https://www.theodinproject.com">The Odin Project</a>.<br>- Creating content related to programming.<br>- Learning something new every single day.<br><br>🎯 Goals:<br>- Make my portfolio web.<br>- Finish my chat bot for my Twitch Channel.<br><br>🎲 Fun fact:<br>Atoms never touch.</p>
 
-###
+<div align="right">
+  <a href="https://www.youtube.com/c/Zeleeh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/zeleeh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+  <a href="https://www.instagram.com/zeleeh_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
 <h2 align="left">Experience in:</h2>
 
 <h6 align="center">Click a logo to navigate through the index!</h6>
