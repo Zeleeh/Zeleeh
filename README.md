@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Zele and I am a student of computer systems engineering from Costa Rica</p>
+<p align="left">I'm Zele and I am a student in computer systems engineering from Costa Rica</p>
 
 ###
 
