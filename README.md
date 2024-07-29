@@ -80,14 +80,20 @@
   <a href="#trello-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  /></a>
 </div>
 
+
+<p align="left">Cloud Services:</p>
+
+<div align="left">
+  <a href="#azure-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /></a>
+  <img width="12" />
+  <a href="#googlecloud-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /></a>
+</div>
+
 <p align="left">Tools:</p>
 
 <div align="left">
   <a href="#docker-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /></a>
   <img width="12" />
-  <a href="#azure-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /></a>
-  <img width="12" />
-  <a href="#googlecloud-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /></a>
 </div>
 
 <h2 align="left">Projects:</h2>
